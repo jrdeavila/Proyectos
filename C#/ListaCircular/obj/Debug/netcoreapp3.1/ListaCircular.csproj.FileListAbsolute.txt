@@ -1,0 +1,11 @@
+/home/jr_linux/Documentos/Proyectos/C#/ListaCircular/obj/Debug/netcoreapp3.1/ListaCircular.csprojAssemblyReference.cache
+/home/jr_linux/Documentos/Proyectos/C#/ListaCircular/obj/Debug/netcoreapp3.1/ListaCircular.AssemblyInfoInputs.cache
+/home/jr_linux/Documentos/Proyectos/C#/ListaCircular/obj/Debug/netcoreapp3.1/ListaCircular.AssemblyInfo.cs
+/home/jr_linux/Documentos/Proyectos/C#/ListaCircular/bin/Debug/netcoreapp3.1/ListaCircular
+/home/jr_linux/Documentos/Proyectos/C#/ListaCircular/bin/Debug/netcoreapp3.1/ListaCircular.deps.json
+/home/jr_linux/Documentos/Proyectos/C#/ListaCircular/bin/Debug/netcoreapp3.1/ListaCircular.runtimeconfig.json
+/home/jr_linux/Documentos/Proyectos/C#/ListaCircular/bin/Debug/netcoreapp3.1/ListaCircular.runtimeconfig.dev.json
+/home/jr_linux/Documentos/Proyectos/C#/ListaCircular/bin/Debug/netcoreapp3.1/ListaCircular.dll
+/home/jr_linux/Documentos/Proyectos/C#/ListaCircular/bin/Debug/netcoreapp3.1/ListaCircular.pdb
+/home/jr_linux/Documentos/Proyectos/C#/ListaCircular/obj/Debug/netcoreapp3.1/ListaCircular.dll
+/home/jr_linux/Documentos/Proyectos/C#/ListaCircular/obj/Debug/netcoreapp3.1/ListaCircular.pdb

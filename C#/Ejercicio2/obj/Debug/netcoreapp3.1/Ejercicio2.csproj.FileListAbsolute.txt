@@ -1,0 +1,11 @@
+/home/jr_linux/Documentos/Proyectos/C#/Ejercicio2/obj/Debug/netcoreapp3.1/Ejercicio2.csprojAssemblyReference.cache
+/home/jr_linux/Documentos/Proyectos/C#/Ejercicio2/obj/Debug/netcoreapp3.1/Ejercicio2.AssemblyInfoInputs.cache
+/home/jr_linux/Documentos/Proyectos/C#/Ejercicio2/obj/Debug/netcoreapp3.1/Ejercicio2.AssemblyInfo.cs
+/home/jr_linux/Documentos/Proyectos/C#/Ejercicio2/bin/Debug/netcoreapp3.1/Ejercicio2
+/home/jr_linux/Documentos/Proyectos/C#/Ejercicio2/bin/Debug/netcoreapp3.1/Ejercicio2.deps.json
+/home/jr_linux/Documentos/Proyectos/C#/Ejercicio2/bin/Debug/netcoreapp3.1/Ejercicio2.runtimeconfig.json
+/home/jr_linux/Documentos/Proyectos/C#/Ejercicio2/bin/Debug/netcoreapp3.1/Ejercicio2.runtimeconfig.dev.json
+/home/jr_linux/Documentos/Proyectos/C#/Ejercicio2/bin/Debug/netcoreapp3.1/Ejercicio2.dll
+/home/jr_linux/Documentos/Proyectos/C#/Ejercicio2/bin/Debug/netcoreapp3.1/Ejercicio2.pdb
+/home/jr_linux/Documentos/Proyectos/C#/Ejercicio2/obj/Debug/netcoreapp3.1/Ejercicio2.dll
+/home/jr_linux/Documentos/Proyectos/C#/Ejercicio2/obj/Debug/netcoreapp3.1/Ejercicio2.pdb

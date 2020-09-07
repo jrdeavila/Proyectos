@@ -1,0 +1,11 @@
+/home/jr_linux/Documentos/Proyectos/C#/Ejercicio3/obj/Debug/netcoreapp3.1/Ejercicio3.csprojAssemblyReference.cache
+/home/jr_linux/Documentos/Proyectos/C#/Ejercicio3/obj/Debug/netcoreapp3.1/Ejercicio3.AssemblyInfoInputs.cache
+/home/jr_linux/Documentos/Proyectos/C#/Ejercicio3/obj/Debug/netcoreapp3.1/Ejercicio3.AssemblyInfo.cs
+/home/jr_linux/Documentos/Proyectos/C#/Ejercicio3/bin/Debug/netcoreapp3.1/Ejercicio3
+/home/jr_linux/Documentos/Proyectos/C#/Ejercicio3/bin/Debug/netcoreapp3.1/Ejercicio3.deps.json
+/home/jr_linux/Documentos/Proyectos/C#/Ejercicio3/bin/Debug/netcoreapp3.1/Ejercicio3.runtimeconfig.json
+/home/jr_linux/Documentos/Proyectos/C#/Ejercicio3/bin/Debug/netcoreapp3.1/Ejercicio3.runtimeconfig.dev.json
+/home/jr_linux/Documentos/Proyectos/C#/Ejercicio3/bin/Debug/netcoreapp3.1/Ejercicio3.dll
+/home/jr_linux/Documentos/Proyectos/C#/Ejercicio3/bin/Debug/netcoreapp3.1/Ejercicio3.pdb
+/home/jr_linux/Documentos/Proyectos/C#/Ejercicio3/obj/Debug/netcoreapp3.1/Ejercicio3.dll
+/home/jr_linux/Documentos/Proyectos/C#/Ejercicio3/obj/Debug/netcoreapp3.1/Ejercicio3.pdb

@@ -1,0 +1,11 @@
+/home/jr_linux/Documentos/Proyectos/C#/ListasEnlazadas/obj/Debug/netcoreapp3.1/ListasEnlazadas.csprojAssemblyReference.cache
+/home/jr_linux/Documentos/Proyectos/C#/ListasEnlazadas/obj/Debug/netcoreapp3.1/ListasEnlazadas.AssemblyInfoInputs.cache
+/home/jr_linux/Documentos/Proyectos/C#/ListasEnlazadas/obj/Debug/netcoreapp3.1/ListasEnlazadas.AssemblyInfo.cs
+/home/jr_linux/Documentos/Proyectos/C#/ListasEnlazadas/bin/Debug/netcoreapp3.1/ListasEnlazadas
+/home/jr_linux/Documentos/Proyectos/C#/ListasEnlazadas/bin/Debug/netcoreapp3.1/ListasEnlazadas.deps.json
+/home/jr_linux/Documentos/Proyectos/C#/ListasEnlazadas/bin/Debug/netcoreapp3.1/ListasEnlazadas.runtimeconfig.json
+/home/jr_linux/Documentos/Proyectos/C#/ListasEnlazadas/bin/Debug/netcoreapp3.1/ListasEnlazadas.runtimeconfig.dev.json
+/home/jr_linux/Documentos/Proyectos/C#/ListasEnlazadas/bin/Debug/netcoreapp3.1/ListasEnlazadas.dll
+/home/jr_linux/Documentos/Proyectos/C#/ListasEnlazadas/bin/Debug/netcoreapp3.1/ListasEnlazadas.pdb
+/home/jr_linux/Documentos/Proyectos/C#/ListasEnlazadas/obj/Debug/netcoreapp3.1/ListasEnlazadas.dll
+/home/jr_linux/Documentos/Proyectos/C#/ListasEnlazadas/obj/Debug/netcoreapp3.1/ListasEnlazadas.pdb
